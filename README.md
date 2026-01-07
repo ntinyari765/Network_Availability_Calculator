@@ -1,4 +1,4 @@
-# MSAN Availability
+# Network Node Availability
 
 **Simple Flask app for uploading and processing availability data** ✅
 
